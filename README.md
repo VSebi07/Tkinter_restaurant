@@ -1,2 +1,1 @@
-# Tkinter_restaurant
-Restaurant program in Python language, using the TkInter module.
+A software that can be used to reserve and modify tables in the restaurant, order meals and list them.
